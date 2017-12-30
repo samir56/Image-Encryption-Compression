@@ -1,0 +1,4 @@
+E:\7amdy\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Release\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+E:\7amdy\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Release\ImageQuantization.MainForm.resources
+E:\7amdy\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Release\ImageEncryptCompress.Properties.Resources.resources
+E:\7amdy\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Release\ImageEncryptCompress.csproj.GenerateResource.Cache
